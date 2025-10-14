@@ -1,0 +1,6 @@
+- **Who are our competitors, and how do we differentiate?**
+    - Analyze Otami and other platforms (e.g., Lightspeed, Square, or local French solutions). What makes your app unique—AI features, pricing, or bakery-specific focus?
+- **What do bakery owners value most?**
+    - Is it ease of use, cost savings, time efficiency, or customer retention? Conduct interviews or surveys with bakery owners to validate assumptions.
+- **How will we reach and acquire customers?**
+    - Will you use digital marketing, partnerships with bakery associations, or trade shows like _Europain_? Define a go-to-market strategy.

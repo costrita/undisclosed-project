@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "12eeefb360329046",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c14da75ddfbab3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a61fb3ac8caf74f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Keys to Success/Business Model and Value Proposition.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Business Model and Value Proposition"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1a937fd6c50825f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f52d8c1c16d3c61c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bcdec7e87ca44bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f27f68ae12db6d83",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "377a85ea3c037445",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 383.50418853759766
+  },
+  "right": {
+    "id": "a0a9685a58a8e7e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "580acc5be9b78331",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69f8c3d04779721d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Keys to Success/Business Model and Value Proposition.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Business Model and Value Proposition"
+            }
+          },
+          {
+            "id": "736097be3c6bd236",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d554076f2b10e2a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a307415e7202fcc6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "74fafbf882b6c127",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 528.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "9a61fb3ac8caf74f",
+  "lastOpenFiles": [
+    "Keys to Success/Customer and Competitive Landscape.md",
+    "Keys to Success/Business Model and Value Proposition.md",
+    "Keys to Success/Validation and Feedback.md",
+    "Discovery/Viscovery.md",
+    "Discovery/Otami.md",
+    "Keys to Success/Personal and Strategic Alignment.md",
+    "Keys to Success/Legal and Financial Considerations.md",
+    "Keys to Success/Technology and Product.md",
+    "Keys to Success/Team and Execution.md",
+    "Keys to Success/Market and Problem Validation.md",
+    "Keys to Success/Untitled",
+    "Keys to Success",
+    "Our Product/Core feature/AI.md",
+    "Our Product/Untitled/Untitled",
+    "Our Product/Core feature",
+    "Discovery/Competitors.canvas",
+    "Discovery/Discovery.md",
+    "Discovery/FoodForecast.md",
+    "Discovery/Helean.md",
+    "Discovery/Impulse.ai.md",
+    "Serbotel 2025/Serbotel 2025.md",
+    "Serbotel 2025/Exhibitor Research.md",
+    "Serbotel 2025/Overview Conference.md",
+    "Serbotel 2025/Interview Questions.md",
+    "Serbotel 2025/Serbotel.base",
+    "Serbotel 2025/Schedule and Logistics.md",
+    "Serbotel 2025/Pitch One-Pager.md",
+    "Discovery/Untitled.base",
+    "Untitled.base",
+    "2025-10-09.md",
+    "Welcome.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Marketing.md",
+    "Interview Questions.md",
+    "App.md",
+    "Our Product",
+    "Serbotel 2025",
+    "Discovery"
+  ]
+}

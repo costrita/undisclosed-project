@@ -1,0 +1,8 @@
+- **What is our core value proposition?**
+    - How will our web app make bakeries more profitable, efficient, or customer-friendly compared to existing solutions?
+- **How will we generate revenue?**
+    - Subscription-based (SaaS), transaction fees, or a freemium model? Consider what bakeries can afford and what aligns with industry norms.
+- **What are the initial and ongoing costs?**
+    - Estimate development costs for the web app, AI integration, cloud hosting, and marketing. Factor in your and Alex’s time and expertise.
+- **What’s the scalability potential?**
+    - Can the app expand to other regions or industries (e.g., restaurants, cafes)? How will it adapt to varying bakery sizes or needs?

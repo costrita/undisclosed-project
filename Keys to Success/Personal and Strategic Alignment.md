@@ -1,0 +1,6 @@
+- **Why are Alex and I passionate about this venture?**
+    - Ensure your motivations align (e.g., financial independence, love for tech or food industry) to stay committed through challenges.
+- **What’s our long-term vision?**
+    - Do you aim to dominate the French bakery market, expand globally, or sell the business? Define a 5-year goal.
+- **Are we prepared for the entrepreneurial lifestyle?**
+    - Building a startup requires resilience, long hours, and uncertainty. Discuss your risk tolerance and work-life balance expectations.

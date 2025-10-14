@@ -1,0 +1,10 @@
+- **What specific problem are we solving for French bakeries?**
+    - Are boulangeries struggling with inventory management, customer engagement, online ordering, or operational efficiency? Pinpoint a clear, urgent pain point.
+- **Who is our target customer within the bakery ecosystem?**
+    - Are we focusing on small artisanal bakeries, chains, or patisseries? Urban or rural? Define their size, location, and needs.
+- **How large is the market opportunity in France?**
+    - What’s the number of bakeries, their revenue potential, and willingness to adopt a tech solution? Research industry reports or data from organizations like the _Confédération Nationale de la Boulangerie-Pâtisserie Française_.
+- **What are the current solutions bakeries use, and why are they insufficient?**
+    - Are competitors like Otami or local tools (e.g., POS systems, manual processes) falling short? Identify gaps in functionality, cost, or usability.
+- **How will AI add unique value to our web app?**
+    - Could AI optimize baking schedules, predict demand, personalize customer offers, or automate marketing? Define the AI’s role in addressing the problem.

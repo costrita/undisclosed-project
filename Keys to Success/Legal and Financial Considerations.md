@@ -1,0 +1,6 @@
+- **What legal requirements must we meet in France?**
+    - Research business registration, data privacy (GDPR for customer data), and food industry regulations. Consult a local expert if needed.
+- **How will we fund the business initially?**
+    - Bootstrap with personal savings, seek investors, or apply for French startup grants (e.g., Bpifrance)? Estimate runway for 12-18 months.
+- **What are the financial risks, and how will we mitigate them?**
+    - Consider slow adoption, high development costs, or unexpected market shifts. Plan for contingency funds or pivots.

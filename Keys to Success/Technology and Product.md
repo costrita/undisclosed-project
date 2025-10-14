@@ -1,0 +1,6 @@
+- **What are the must-have features for the MVP?**
+    - Prioritize features like online ordering, inventory tracking, or AI-driven demand forecasting based on bakery needs.
+- **How will AI integration work practically?**
+    - Will you use existing AI tools (e.g., via xAI’s API at [https://x.ai/api](https://x.ai/api)) or build custom models? Assess technical feasibility and cost.
+- **How will we ensure the app is user-friendly for non-tech-savvy bakery owners?**
+    - Consider simple interfaces, French-language support, and training resources tailored to the industry.

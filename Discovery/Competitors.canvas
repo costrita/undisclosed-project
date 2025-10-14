@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"54ae37f738c7db00","type":"text","text":"**Funding**: They've raised 7 million euros total, with the latest round in 2024 (exact investors aren't public, but TCD Capital—a French VC focused on tech startups—has spotlighted them). This cash is fueling European expansion and AI enhancements, like integrating events (e.g., Olympics for demand spikes). They hit the ground running with organic growth via word-of-mouth in the food ecosystem.","x":-1520,"y":-460,"width":250,"height":400,"color":"2"},
+		{"id":"78f6e02abc7cd00f","type":"text","text":"[Impule.ai](https://www.inpulse.ai/solutions/gestion-factures-ai) [[Impulse.ai]]\n","x":-1420,"y":-640,"width":250,"height":60,"color":"2"},
+		{"id":"ff010963c2630b66","type":"text","text":"[Otami](https://www.otami.fr/)","x":-1080,"y":-640,"width":250,"height":60,"color":"5"},
+		{"id":"09967d480ffeb0d6","type":"text","text":"[Helean](https://helean.co/)","x":-780,"y":-640,"width":250,"height":60,"color":"6"},
+		{"id":"9fd954a5b6833cff","type":"text","text":"[FoodForecast](https://foodforecast.com/fr/boulangeries)","x":-480,"y":-640,"width":250,"height":60,"color":"3"},
+		{"id":"2c975690ea650a92","type":"text","text":"https://viscovery.com/en/ (NICE STUFF!)","x":-160,"y":-640,"width":250,"height":60,"color":"5"},
+		{"id":"157993bad12abbf3","type":"file","file":"Discovery/Impulse.ai.md","x":-1240,"y":-460,"width":460,"height":400,"color":"2"}
+	],
+	"edges":[
+		{"id":"a17cda9dfbe5d055","fromNode":"78f6e02abc7cd00f","fromSide":"bottom","toNode":"54ae37f738c7db00","toSide":"top"},
+		{"id":"a3496aa1da72b1dc","fromNode":"78f6e02abc7cd00f","fromSide":"bottom","toNode":"157993bad12abbf3","toSide":"top"}
+	]
+}

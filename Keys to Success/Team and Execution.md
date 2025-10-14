@@ -1,0 +1,6 @@
+- **What skills do Alex and I bring, and what gaps exist?**
+    - Do you have expertise in web development, AI, or bakery operations? Will you need to hire developers, AI specialists, or industry consultants?
+- **How will we divide roles and responsibilities?**
+    - Clarify who handles product development, marketing, sales, or customer support to avoid overlap or gaps.
+- **What’s our timeline for launching a minimum viable product (MVP)?**
+    - Can you build a basic version of the app to test with a few bakeries within 6-12 months? Set realistic milestones.
