@@ -6,7 +6,8 @@
 		{"id":"09967d480ffeb0d6","type":"text","text":"[Helean](https://helean.co/)","x":-780,"y":-640,"width":250,"height":60,"color":"6"},
 		{"id":"9fd954a5b6833cff","type":"text","text":"[FoodForecast](https://foodforecast.com/fr/boulangeries)","x":-480,"y":-640,"width":250,"height":60,"color":"3"},
 		{"id":"2c975690ea650a92","type":"text","text":"https://viscovery.com/en/ (NICE STUFF!)","x":-160,"y":-640,"width":250,"height":60,"color":"5"},
-		{"id":"157993bad12abbf3","type":"file","file":"Discovery/Impulse.ai.md","x":-1240,"y":-460,"width":460,"height":400,"color":"2"}
+		{"id":"157993bad12abbf3","type":"file","file":"Discovery/Impulse.ai.md","x":-1240,"y":-460,"width":460,"height":400,"color":"2"},
+		{"id":"fb871ee27085abf1","x":140,"y":-640,"width":250,"height":60,"type":"text","text":"[Patisprix](https://www.patisprix.fr/)"}
 	],
 	"edges":[
 		{"id":"a17cda9dfbe5d055","fromNode":"78f6e02abc7cd00f","fromSide":"bottom","toNode":"54ae37f738c7db00","toSide":"top"},
