@@ -4,7 +4,10 @@ Founded 2012, took 5 years of stalling and to start, 3 cofounders.
 
 As of October 2025 they are 24 people in the team.
 
-Key functionalities:
+Sales person, contact:
+![[signal-2025-10-22-170424_002.jpeg]]
+
+### Key functionalities:
 
 1. Checklist
 2. Reception de la marchandise avec des checks *thumbs up / thumbs down*, quality check at reception. 
