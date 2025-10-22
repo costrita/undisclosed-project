@@ -10,6 +10,8 @@
 4. Define tech stack + Architecture [[Tech stack]]
 5. Test run Octopus https://octopus-haccp.com/ 
 	1. extract as much as there is (workflow, modules, features, etc.)
+6. @Dorian -> determine pricing with AI based on existing competition and pricing strategies held by epackpro, octopus, kooklin, etc.
+7. @Dorian -> do a page to do a page on all acquisition channels
 
 
 ### Mid-term (6-18 weeks)
