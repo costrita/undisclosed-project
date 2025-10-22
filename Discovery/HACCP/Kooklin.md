@@ -19,5 +19,4 @@ Sales person, contact:
 5. AI classic chatbot (for recepies and whatnots)
 6. Hardware: tablete very secured for shocks and drops (solid and handy with silicone), brother printer which is bluetooth connected 
 7. Quick-sync -> different app to connect their customer support to the tablette, in case the restaurant have inspections and they don't know how to use it.
-8. KookNotification -> different app to notify and monitor temperatures via sensors(basically a grafana dashboard with temps)
- 
+8. KookContrôle -> different app to notify and monitor temperatures via sensors(basically a grafana dashboard with temps)

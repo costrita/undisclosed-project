@@ -7,3 +7,18 @@
 	1. Temperature check avec pointeur laser
 	2. Temperature check avec sonde
 5. Wall mount for the Tablet/Monitor
+
+
+
+
+### Tablets
+Suppliers of Kooklit
+https://www.athesi.com/wp-content/uploads/Catalogue-Athesi-EN-092025a-web-1.pdf
+https://www.athesi.com/
+
+
+maybe this? - https://volla.online/en/business/
+
+Lenovo thinkpad tablets
+
+
